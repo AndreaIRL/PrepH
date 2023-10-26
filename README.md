@@ -1,2 +1,2 @@
 # PrepH
-Pruebas
+Proyecto de prueba de configuracion
